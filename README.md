@@ -41,23 +41,41 @@ Thus, there is a requirement for decentralized storage of data to overcome most 
 ![pf4](https://user-images.githubusercontent.com/115668271/203647879-056372e6-2531-40f9-866b-b7fa780380da.png)
 
 
+
 ### Report Charts
 ![pf3](https://user-images.githubusercontent.com/115668271/203648143-1c50011f-9d32-4c4f-be7b-2ad073a4d006.png)
 
-![pf2](https://user-images.githubusercontent.com/115668271/203648210-3e33abae-b08e-4ff0-9d46-91c544004712.png)
 
 
 ### Employee Attendance
 ![pf1](https://user-images.githubusercontent.com/115668271/203648176-4af689c3-9e5d-4b9b-9678-52c1889fab6c.png)
 
+
+
+### WebCam with ALPR API
 ![pf5](https://user-images.githubusercontent.com/115668271/203648320-20d52f08-8308-4c35-886d-3f368bf99c1b.png)
 
+
+
+### Order List
 ![pf6](https://user-images.githubusercontent.com/115668271/203648355-66844d40-885c-426c-aa43-09d85b00151a.png)
 
+
+
+### Updating Employee Data
 ![pf7](https://user-images.githubusercontent.com/115668271/203648351-ba53a047-c5e0-4352-8fa0-8da3f3710020.png)
 
+
+
+### Inventory Management
 ![pf8](https://user-images.githubusercontent.com/115668271/203648347-524a77f6-bc10-4f13-ade4-6901a111a075.png)
 
+
+
+### Order Details
 ![pf9](https://user-images.githubusercontent.com/115668271/203648363-6f13cbd3-3708-4542-9d8c-961ee4e888f6.png)
 
+
+
+### Transaction over PayPal
 ![pf10](https://user-images.githubusercontent.com/115668271/203648358-f8271cc8-e1cc-4db3-8a22-0b0f02341a94.png)
