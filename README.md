@@ -37,10 +37,13 @@ Thus, there is a requirement for decentralized storage of data to overcome most 
 
 
 ## Project Showcase
+### Admin Dashboard
 ![pf4](https://user-images.githubusercontent.com/115668271/203647879-056372e6-2531-40f9-866b-b7fa780380da.png)
 
+### Employee Attendance
 ![pf3](https://user-images.githubusercontent.com/115668271/203648143-1c50011f-9d32-4c4f-be7b-2ad073a4d006.png)
 
+### Report Charts
 ![pf1](https://user-images.githubusercontent.com/115668271/203648176-4af689c3-9e5d-4b9b-9678-52c1889fab6c.png)
 
 ![pf2](https://user-images.githubusercontent.com/115668271/203648210-3e33abae-b08e-4ff0-9d46-91c544004712.png)
