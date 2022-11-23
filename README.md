@@ -1,11 +1,21 @@
 # Computer Vision assisted Drive-Thru Web Store with On-chain Transactions
 Currently in progress
 
-## Domain:
+## Domain
 1. Ecommerce WebApp
 2. Computer Vision
 3. Blockchain
 4. Machine Learning
+
+## Technologies and Practices
+1. Backend Development using Express JS (Node JS) and Mongo DB
+2. Frontend Development using Vanilla JS and EJS Templates
+3. Libraires: Plotly JS, Bootstrap, Axios
+4. ALPR Camera and API Integration
+5. Smart Contract and Crypto Wallet
+6. Integration with PayPal SDK
+7. Followed MVC Design Pattern 
+8. Followed Standard Security Practices
 
 ## Problem Statement
 Blackcreek's store pick-up points have seen increasingly heavy traffic. During rush hours, the long line of cars waiting to drive through disrupt traffic on the street, causing delays and disorder. This results in a stressful experience for everyone involved – customers, store staff, and the neighborhood.
@@ -23,3 +33,4 @@ Thus, there is a requirement for decentralized storage of data to overcome most 
 6. To implement Task Management System which distributes Tasks among Employees in an efficient manner so as to balance the workload.
 7. To implement Employee Attendance Management System.
 8. To generate Report Charts of the goods bought by customers over a period of time.
+9. To implement Standard Security practices i.e. Access Policy, CSRF, XSS etc.
